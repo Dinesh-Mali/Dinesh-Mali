@@ -14,7 +14,7 @@
                       | Deep Learning with building different neural architectures |
                       | Transfer Learning and its implemetation |
                       | Natural Language Processing with LSTM, Bert and Transformers |
-                      | Automated MAchine Learning with Auto Scikit-Learn, Auto Keras, H2O |
+                      | Automated MAchine Learning (AutoML) with Auto Scikit-Learn, Auto Keras, H2O |
                       | Exploring research papers and implementing it from scratch |
                           
 :briefcase: Tools and Libraries I explored: :briefcase:
