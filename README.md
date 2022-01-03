@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+:mortar_board: I studied from IIT Kharagpur. :books:
+
+:computer: I worked at Infosys Research and Development with chatbot research team. There I worked on Machine Learning, Deep Learning, Natural Language Processing and Deployment of ML models, building Proof of Concepts (POC). :computer:
+
 <!--
 **Dinesh-Mali/Dinesh-Mali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
