@@ -9,12 +9,13 @@
 :golf: I am actively looking for Machine/Deep Learning or NLP Engineer, Data scientist role. :golf:
 
 :crown: My areas of expertise - 
-                          1) Machine Learning from Data Processing to Deployment 
-                          2) Deep Learning with building different neural architectures 
-                          3) Transfer Learning and its implemetation
-                          4) Natural Language Processing with LSTM, Bert and Transformers
-                          5) Automated MAchine Learning with Auto Scikit-Learn, Auto Keras, H2O
-                          5) Exploring research papers and implementing it from scratch
+
+                      | Machine Learning from Data Processing to Deployment |
+                      | Deep Learning with building different neural architectures |
+                      | Transfer Learning and its implemetation |
+                      | Natural Language Processing with LSTM, Bert and Transformers |
+                      | Automated MAchine Learning with Auto Scikit-Learn, Auto Keras, H2O |
+                      | Exploring research papers and implementing it from scratch |
                           
 :briefcase: Tools and Libraries I explored: :briefcase:
 
