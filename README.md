@@ -6,14 +6,55 @@
 
 :telescope: Currently I works at Chegg INC., as Advanced Math Expert. :telescope:
 
-:golf: I am actively looking for Machine/Deep Learning or NLP Engineer,Data scientist role. :golf:
+:golf: I am actively looking for Machine/Deep Learning or NLP Engineer, Data scientist role. :golf:
 
-:crown: My area of experise - 
+:crown: My areas of expertise - 
                           1) Machine Learning from Data Processing to Deployment 
-                          2) Deep Learning with building of different neural architectures 
+                          2) Deep Learning with building different neural architectures 
                           3) Transfer Learning and its implemetation
                           4) Natural Language Processing with LSTM, Bert and Transformers
+                          5) Automated MAchine Learning with Auto Scikit-Learn, Auto Keras, H2O
                           5) Exploring research papers and implementing it from scratch
+                          
+:briefcase: Tools and Libraries I explored: :briefcase:
+
+                      -----------------------------------------------------------------------------------
+                      | Data Visualization, Exploration | Pandas, Matplotlib, Seaborn, Plotly, Cufflinks|
+                      -----------------------------------------------------------------------------------
+                      | Model Building | Scikit-Learn, Keras, Tensorflow|
+                      ----------------------------------------------------
+                      | Transfer Learning | Tensorflow-Hub, keras |
+                      --------------------------------------
+                      | AutoML | Auto Keras, Auto Scikit Learn, H2O |
+                      -----------------------------------------------
+                      | Mathematical Calculations | tensorflow, numpy |
+                      -------------------------------------------------
+                      | Natural Language Processing | NLTK, Spacy, Hugging Face|
+                      ----------------------------------------------------------
+                      | Web Frameworks | Django, Flask |
+                      ----------------------------------
+                      | Model Deployment Tools | FastAPI, Streamlit, Swagger, Heroku |
+                      ----------------------------------------------------------------
+                      | Programming Languages | Python, C++ |
+                      ---------------------------------------
+ :hammer: Certifications :hammer:    Check my LinkedIn Profile Here: [Dinesh Mali](https://www.linkedin.com/in/dinesh-mali-934b58227/).
+ 
+                      | Udemy | Coursera | AppliedAI Course | Udacity |
+                      
+:bulb: Courses I am Actively Learning :bulb:
+
+                      | Googles Tensorflow Certification - Udemy|
+                      | Microsoft Azure Data Scientist Associate - DP-100 Test Prep Specialization - Coursera |
+                      | DeepLearning.AI TensorFlow Developer Professional Certificate - Coursera |
+                      | AWS Machine Learning Certification Exam - Complete Guide - Udemy |
+    
+:dart: My Hobbies :dart:
+
+                      | Reading | Cricket | Wandering | Trekking | 
+
+:trophy: Please check my github repos. :trophy:
+
+:wave: Stay Tuned for upcoming awesome repos!! :wave:
 
 <!--
 **Dinesh-Mali/Dinesh-Mali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
