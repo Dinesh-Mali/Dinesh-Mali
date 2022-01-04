@@ -24,7 +24,7 @@
                       -----------------------------------------------------------------------------------
                       | Model Building | Scikit-Learn, Keras, Tensorflow|
                       ----------------------------------------------------
-                      | Transfer Learning | Tensorflow-Hub, keras |
+                      | Transfer Learning | Tensorflow-Hub, keras, Hugging Face |
                       --------------------------------------
                       | AutoML | Auto Keras, Auto Scikit Learn, H2O |
                       -----------------------------------------------
