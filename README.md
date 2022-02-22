@@ -2,7 +2,7 @@
 
 :mortar_board: I studied from IIT Kharagpur. :books:
 
-:computer: I am having 3 years of experience - worked at Infosys Research and Development with chatbot research team. There I worked on Machine Learning, Deep Learning, Natural Language Processing and Deployment of ML models, building Proof of Concepts (POC). :computer:
+:computer: I am having 3 years of experience - worked at Infosys (ICETS) with chatbot research team. There I worked on Machine Learning, Deep Learning, Natural Language Processing and Deployment of ML models, building Proof of Concepts (POC). :computer:
 
 :telescope: Currently I works at Chegg INC., as Advanced Math Expert. :telescope:
 
